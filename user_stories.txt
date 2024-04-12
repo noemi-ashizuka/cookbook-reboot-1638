@@ -1,0 +1,8 @@
+User Stories
+
+- add a recipe (add)
+- list recipes (list)
+- remove a recipe
+
+TODO:
+- Persist the data in a csv file
